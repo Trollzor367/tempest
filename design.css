@@ -13,7 +13,7 @@ header {
 
 nav {
   background: black;
-  padding: 5px 120px;
+  padding: 5px 240px;
   position: relative;
 }
 
@@ -26,7 +26,7 @@ nav ul {
   display: flex;
   align-items: stretch;
   justify-content: space-between;
-  width: 40%;
+  width: 100%;
   list-style: none;
   margin: 0;
   padding: 0;
