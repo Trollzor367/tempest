@@ -24,11 +24,14 @@ nav a {
 
 nav ul {
   list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
 nav li{
   display: inline;
   padding: 20px auto;
+  float: left;
 }
 
 header, section, footer, aside, nav, main, article, figure {
