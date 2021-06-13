@@ -23,15 +23,18 @@ nav a {
 }
 
 nav ul {
+  display: flex;
+  align-items: stretch;
+  justify-content: space-between;
+  width: 100%;
   list-style: none;
-  text-align: justify
   margin: 0;
   padding: 0;
 }
 
 nav li{
-  padding: 20px auto;
-  float: left;
+  display: block;
+  flex: 0 1 auto;
 }
 
 header, section, footer, aside, nav, main, article, figure {
