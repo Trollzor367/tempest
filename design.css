@@ -22,6 +22,14 @@ nav a {
   text-decoration: none;
 }
 
+nav ul {
+  list-style: none;
+}
+
+nav li{
+  display: inline;
+}
+
 header, section, footer, aside, nav, main, article, figure {
   display: block;
 }
