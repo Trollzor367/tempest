@@ -18,10 +18,11 @@ nav {
 }
 
 nav a {
+  display: block;
   color: #ffffff;
   text-decoration: none;
   text-align: center;
-  padding: 20px 125px;
+  padding: 20px 75px;
 }
 header, section, footer, aside, nav, main, article, figure {
   display: block;
