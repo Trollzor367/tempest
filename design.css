@@ -21,7 +21,7 @@ nav a {
   display: block;
   color: #ffffff;
   text-decoration: none;
-  padding: 20px 130px;
+  padding: 30px auto;
 }
 header, section, footer, aside, nav, main, article, figure {
   display: block;
