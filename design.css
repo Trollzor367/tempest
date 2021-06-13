@@ -22,7 +22,7 @@ nav a {
   color: #ffffff;
   text-decoration: none;
   text-align: center;
-  padding: 20px 15px;
+  padding: 20px 35px;
 }
 header, section, footer, aside, nav, main, article, figure {
   display: block;
@@ -40,6 +40,7 @@ nav li {
 
 body {
   font-family: sans-serif;
+  color: #ffffff;
   background-color: black;
 }
 #wrapper {
@@ -49,4 +50,9 @@ body {
   margin-left: auto;
   margin-right: auto;
   margin-top: 10px;
+}
+
+footer a {
+  text-decoration: none;
+  color: #ffffff;
 }
