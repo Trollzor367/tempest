@@ -20,6 +20,7 @@ nav {
 nav a {
   color: #ffffff;
   text-decoration: none;
+  text-shadow: 5 -5 8 #a8a8a8;
 }
 
 nav ul {
@@ -45,7 +46,10 @@ body {
   font-family: sans-serif;
   color: #ffffff;
   background-color: black;
-  background-image: url(crazyempanadagig.jpeg)
+  background-image: url(crazyempanadagig.jpeg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
 }
 #wrapper {
   max-width: 1230;
