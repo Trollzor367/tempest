@@ -14,7 +14,7 @@ header {
 nav {
   background: black;
   padding: 5px 10px;
-  position: relative;
+  float: center;
 }
 
 nav a {
@@ -31,7 +31,7 @@ header, section, footer, aside, nav, main, article, figure {
 nav ul {
   padding: 0;
   margin: 0 auto;
-  float: center;
+  position: relative;
   list-style: none;
 }
 
