@@ -21,20 +21,10 @@ nav a {
   display: block;
   color: #ffffff;
   text-decoration: none;
-  padding: auto;
+  padding: 20px auto;
 }
 header, section, footer, aside, nav, main, article, figure {
   display: block;
-}
-
-nav ul {
-  padding: 0;
-  margin: 0 auto;
-  list-style: none;
-}
-
-nav li {
-  float: left;
 }
 
 body {
