@@ -5,6 +5,7 @@ header {
 
 .logo img {
   display: block;
+  width: 615px;
   float: center;
   margin-top: 10px;
   margin-left: auto;
@@ -30,6 +31,7 @@ header, section, footer, aside, nav, main, article, figure {
 
 nav ul {
   padding: 0;
+  width: 615px;
   margin: 0 auto;
   list-style: none;
 }
