@@ -14,7 +14,7 @@ header {
 nav {
   background: black;
   padding: 5px 10px;
-  position: relative;
+  position: center;
 }
 
 nav a {
