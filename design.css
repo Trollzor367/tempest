@@ -1,14 +1,33 @@
 header {
   color: #ffffff;
   background-color: #000000;
-  background-image: url(whitetempestlogo.png);
-  background-repeat: no-repeat;
-  background-position: center top;
-  background-size: 877.5px 446.25px;
 }
 
 #wrapper {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+.logo {
+  display: block;
+  overflow: auto;
+  position: absolute;
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+nav {
+  color: #ffffff
+  background-color: #000000;
+}
+
+nav ul {
+  padding: 0;
+  margin: 0 0 0 150px;
+  list-style: none;
+}
+nav li {
+  float: left
 }
