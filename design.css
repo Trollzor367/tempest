@@ -19,8 +19,13 @@ header {
 }
 
 nav {
-  color: #ffffff
+  color: #ffffff;
   background-color: #000000;
+  font-family: Helvetica, sans-serif;
+  text-decoration: none;
+  font-weight: bolder;
+  font-style: normal;
+  letter-spacing: 5px;
 }
 
 nav ul {
@@ -29,5 +34,5 @@ nav ul {
   list-style: none;
 }
 nav li {
-  float: left
+  float: left;
 }
