@@ -1,6 +1,8 @@
 header {
   color: #ffffff;
   background: black;
+  padding: 0;
+  margin: 0;
 }
 
 .logo img {
